@@ -251,7 +251,7 @@ footer {
 }
 
 .footlink {
-    font-weight: bold;
+    font-style: bold;
     padding: 2px;
     text-decoration: none;
     transition: 0.3s;
