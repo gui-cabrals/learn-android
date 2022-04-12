@@ -253,13 +253,9 @@ footer {
 .footlink {
     font-weight: bold;
     color: white;
-    padding: 2px;
     text-decoration: none;
-    opacity: 0.5;
 }
 
-footlink:hover {
-    text-decoration: underline;
-    opacity: 1;
-    transition: 0.3s;
+.footlink::after {
+    content: '\00A0\1F517';
 }
