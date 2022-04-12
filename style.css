@@ -251,7 +251,8 @@ footer {
 }
 
 .footlink {
-    font-style: bold;
+    font-weight: bold;
+    color: white;
     padding: 2px;
     text-decoration: none;
     transition: 0.3s;
