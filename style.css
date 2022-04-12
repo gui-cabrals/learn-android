@@ -249,3 +249,16 @@ footer {
     text-align: center;
     color: white;
 }
+
+.footlink {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    transition: 0.4s;
+    opacity: 0.5;
+}
+
+footlink:hover {
+    text-decoration: underline;
+    opacity: 1;
+}
