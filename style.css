@@ -255,11 +255,11 @@ footer {
     color: white;
     padding: 2px;
     text-decoration: none;
-    transition: 0.3s;
     opacity: 0.5;
 }
 
 footlink:hover {
     text-decoration: underline;
     opacity: 1;
+    transition: 0.3s;
 }
